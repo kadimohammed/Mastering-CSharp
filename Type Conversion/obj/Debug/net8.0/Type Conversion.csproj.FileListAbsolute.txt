@@ -1,0 +1,14 @@
+C:\Users\MO KADI\Desktop\.net course\mastering c#\Type Conversion\bin\Debug\net8.0\Type Conversion.exe
+C:\Users\MO KADI\Desktop\.net course\mastering c#\Type Conversion\bin\Debug\net8.0\Type Conversion.deps.json
+C:\Users\MO KADI\Desktop\.net course\mastering c#\Type Conversion\bin\Debug\net8.0\Type Conversion.runtimeconfig.json
+C:\Users\MO KADI\Desktop\.net course\mastering c#\Type Conversion\bin\Debug\net8.0\Type Conversion.dll
+C:\Users\MO KADI\Desktop\.net course\mastering c#\Type Conversion\bin\Debug\net8.0\Type Conversion.pdb
+C:\Users\MO KADI\Desktop\.net course\mastering c#\Type Conversion\obj\Debug\net8.0\Type Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MO KADI\Desktop\.net course\mastering c#\Type Conversion\obj\Debug\net8.0\Type Conversion.AssemblyInfoInputs.cache
+C:\Users\MO KADI\Desktop\.net course\mastering c#\Type Conversion\obj\Debug\net8.0\Type Conversion.AssemblyInfo.cs
+C:\Users\MO KADI\Desktop\.net course\mastering c#\Type Conversion\obj\Debug\net8.0\Type Conversion.csproj.CoreCompileInputs.cache
+C:\Users\MO KADI\Desktop\.net course\mastering c#\Type Conversion\obj\Debug\net8.0\Type Conversion.dll
+C:\Users\MO KADI\Desktop\.net course\mastering c#\Type Conversion\obj\Debug\net8.0\refint\Type Conversion.dll
+C:\Users\MO KADI\Desktop\.net course\mastering c#\Type Conversion\obj\Debug\net8.0\Type Conversion.pdb
+C:\Users\MO KADI\Desktop\.net course\mastering c#\Type Conversion\obj\Debug\net8.0\Type Conversion.genruntimeconfig.cache
+C:\Users\MO KADI\Desktop\.net course\mastering c#\Type Conversion\obj\Debug\net8.0\ref\Type Conversion.dll

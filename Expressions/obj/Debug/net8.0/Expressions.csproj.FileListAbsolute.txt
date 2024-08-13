@@ -1,0 +1,28 @@
+C:\Users\MO KADI\Desktop\arrays\Expressions\bin\Debug\net8.0\Expressions.exe
+C:\Users\MO KADI\Desktop\arrays\Expressions\bin\Debug\net8.0\Expressions.deps.json
+C:\Users\MO KADI\Desktop\arrays\Expressions\bin\Debug\net8.0\Expressions.runtimeconfig.json
+C:\Users\MO KADI\Desktop\arrays\Expressions\bin\Debug\net8.0\Expressions.dll
+C:\Users\MO KADI\Desktop\arrays\Expressions\bin\Debug\net8.0\Expressions.pdb
+C:\Users\MO KADI\Desktop\arrays\Expressions\obj\Debug\net8.0\Expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MO KADI\Desktop\arrays\Expressions\obj\Debug\net8.0\Expressions.AssemblyInfoInputs.cache
+C:\Users\MO KADI\Desktop\arrays\Expressions\obj\Debug\net8.0\Expressions.AssemblyInfo.cs
+C:\Users\MO KADI\Desktop\arrays\Expressions\obj\Debug\net8.0\Expressions.csproj.CoreCompileInputs.cache
+C:\Users\MO KADI\Desktop\arrays\Expressions\obj\Debug\net8.0\Expressions.dll
+C:\Users\MO KADI\Desktop\arrays\Expressions\obj\Debug\net8.0\refint\Expressions.dll
+C:\Users\MO KADI\Desktop\arrays\Expressions\obj\Debug\net8.0\Expressions.pdb
+C:\Users\MO KADI\Desktop\arrays\Expressions\obj\Debug\net8.0\Expressions.genruntimeconfig.cache
+C:\Users\MO KADI\Desktop\arrays\Expressions\obj\Debug\net8.0\ref\Expressions.dll
+C:\Users\MO KADI\Desktop\mastering c#\Expressions\bin\Debug\net8.0\Expressions.exe
+C:\Users\MO KADI\Desktop\mastering c#\Expressions\bin\Debug\net8.0\Expressions.deps.json
+C:\Users\MO KADI\Desktop\mastering c#\Expressions\bin\Debug\net8.0\Expressions.runtimeconfig.json
+C:\Users\MO KADI\Desktop\mastering c#\Expressions\bin\Debug\net8.0\Expressions.dll
+C:\Users\MO KADI\Desktop\mastering c#\Expressions\bin\Debug\net8.0\Expressions.pdb
+C:\Users\MO KADI\Desktop\mastering c#\Expressions\obj\Debug\net8.0\Expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MO KADI\Desktop\mastering c#\Expressions\obj\Debug\net8.0\Expressions.AssemblyInfoInputs.cache
+C:\Users\MO KADI\Desktop\mastering c#\Expressions\obj\Debug\net8.0\Expressions.AssemblyInfo.cs
+C:\Users\MO KADI\Desktop\mastering c#\Expressions\obj\Debug\net8.0\Expressions.csproj.CoreCompileInputs.cache
+C:\Users\MO KADI\Desktop\mastering c#\Expressions\obj\Debug\net8.0\Expressions.dll
+C:\Users\MO KADI\Desktop\mastering c#\Expressions\obj\Debug\net8.0\refint\Expressions.dll
+C:\Users\MO KADI\Desktop\mastering c#\Expressions\obj\Debug\net8.0\Expressions.pdb
+C:\Users\MO KADI\Desktop\mastering c#\Expressions\obj\Debug\net8.0\Expressions.genruntimeconfig.cache
+C:\Users\MO KADI\Desktop\mastering c#\Expressions\obj\Debug\net8.0\ref\Expressions.dll

@@ -1,0 +1,14 @@
+C:\Users\MO KADI\Desktop\.net course\mastering c#\OOP - Field & Constant\obj\Debug\net8.0\4 OOP - Field & Constant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MO KADI\Desktop\.net course\mastering c#\OOP - Field & Constant\obj\Debug\net8.0\4 OOP - Field & Constant.AssemblyInfoInputs.cache
+C:\Users\MO KADI\Desktop\.net course\mastering c#\OOP - Field & Constant\obj\Debug\net8.0\4 OOP - Field & Constant.AssemblyInfo.cs
+C:\Users\MO KADI\Desktop\.net course\mastering c#\OOP - Field & Constant\obj\Debug\net8.0\4 OOP - Field & Constant.csproj.CoreCompileInputs.cache
+C:\Users\MO KADI\Desktop\.net course\mastering c#\OOP - Field & Constant\bin\Debug\net8.0\4 OOP - Field & Constant.exe
+C:\Users\MO KADI\Desktop\.net course\mastering c#\OOP - Field & Constant\bin\Debug\net8.0\4 OOP - Field & Constant.deps.json
+C:\Users\MO KADI\Desktop\.net course\mastering c#\OOP - Field & Constant\bin\Debug\net8.0\4 OOP - Field & Constant.runtimeconfig.json
+C:\Users\MO KADI\Desktop\.net course\mastering c#\OOP - Field & Constant\bin\Debug\net8.0\4 OOP - Field & Constant.dll
+C:\Users\MO KADI\Desktop\.net course\mastering c#\OOP - Field & Constant\bin\Debug\net8.0\4 OOP - Field & Constant.pdb
+C:\Users\MO KADI\Desktop\.net course\mastering c#\OOP - Field & Constant\obj\Debug\net8.0\4 OOP - Field & Constant.dll
+C:\Users\MO KADI\Desktop\.net course\mastering c#\OOP - Field & Constant\obj\Debug\net8.0\refint\4 OOP - Field & Constant.dll
+C:\Users\MO KADI\Desktop\.net course\mastering c#\OOP - Field & Constant\obj\Debug\net8.0\4 OOP - Field & Constant.pdb
+C:\Users\MO KADI\Desktop\.net course\mastering c#\OOP - Field & Constant\obj\Debug\net8.0\4 OOP - Field & Constant.genruntimeconfig.cache
+C:\Users\MO KADI\Desktop\.net course\mastering c#\OOP - Field & Constant\obj\Debug\net8.0\ref\4 OOP - Field & Constant.dll

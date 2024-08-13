@@ -1,0 +1,14 @@
+C:\Users\MO KADI\Desktop\.net course\mastering c#\6 Constructor\bin\Debug\net8.0\6 Constructor.exe
+C:\Users\MO KADI\Desktop\.net course\mastering c#\6 Constructor\bin\Debug\net8.0\6 Constructor.deps.json
+C:\Users\MO KADI\Desktop\.net course\mastering c#\6 Constructor\bin\Debug\net8.0\6 Constructor.runtimeconfig.json
+C:\Users\MO KADI\Desktop\.net course\mastering c#\6 Constructor\bin\Debug\net8.0\6 Constructor.dll
+C:\Users\MO KADI\Desktop\.net course\mastering c#\6 Constructor\bin\Debug\net8.0\6 Constructor.pdb
+C:\Users\MO KADI\Desktop\.net course\mastering c#\6 Constructor\obj\Debug\net8.0\6 Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MO KADI\Desktop\.net course\mastering c#\6 Constructor\obj\Debug\net8.0\6 Constructor.AssemblyInfoInputs.cache
+C:\Users\MO KADI\Desktop\.net course\mastering c#\6 Constructor\obj\Debug\net8.0\6 Constructor.AssemblyInfo.cs
+C:\Users\MO KADI\Desktop\.net course\mastering c#\6 Constructor\obj\Debug\net8.0\6 Constructor.csproj.CoreCompileInputs.cache
+C:\Users\MO KADI\Desktop\.net course\mastering c#\6 Constructor\obj\Debug\net8.0\6 Constructor.dll
+C:\Users\MO KADI\Desktop\.net course\mastering c#\6 Constructor\obj\Debug\net8.0\refint\6 Constructor.dll
+C:\Users\MO KADI\Desktop\.net course\mastering c#\6 Constructor\obj\Debug\net8.0\6 Constructor.pdb
+C:\Users\MO KADI\Desktop\.net course\mastering c#\6 Constructor\obj\Debug\net8.0\6 Constructor.genruntimeconfig.cache
+C:\Users\MO KADI\Desktop\.net course\mastering c#\6 Constructor\obj\Debug\net8.0\ref\6 Constructor.dll
