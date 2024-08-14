@@ -1,0 +1,15 @@
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\10 Events\bin\Debug\net8.0\J- Events.exe
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\10 Events\bin\Debug\net8.0\J- Events.deps.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\10 Events\bin\Debug\net8.0\J- Events.runtimeconfig.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\10 Events\bin\Debug\net8.0\J- Events.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\10 Events\bin\Debug\net8.0\J- Events.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\10 Events\obj\Debug\net8.0\J- Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\10 Events\obj\Debug\net8.0\J- Events.AssemblyInfoInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\10 Events\obj\Debug\net8.0\J- Events.AssemblyInfo.cs
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\10 Events\obj\Debug\net8.0\J- Events.csproj.CoreCompileInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\10 Events\obj\Debug\net8.0\J- Events.sourcelink.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\10 Events\obj\Debug\net8.0\J- Events.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\10 Events\obj\Debug\net8.0\refint\J- Events.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\10 Events\obj\Debug\net8.0\J- Events.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\10 Events\obj\Debug\net8.0\J- Events.genruntimeconfig.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\10 Events\obj\Debug\net8.0\ref\J- Events.dll

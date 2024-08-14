@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MO KADI\\Desktop\\.net course\\mastering c#\\OOP - Field & Constant\\4 OOP - Field & Constant.csproj",
-      "projectName": "4 OOP - Field & Constant",
-      "projectPath": "C:\\Users\\MO KADI\\Desktop\\.net course\\mastering c#\\OOP - Field & Constant\\4 OOP - Field & Constant.csproj",
+      "projectUniqueName": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\OOP - Field & Constant\\D- OOP - Field & Constant.csproj",
+      "projectName": "D- OOP - Field & Constant",
+      "projectPath": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\OOP - Field & Constant\\D- OOP - Field & Constant.csproj",
       "packagesPath": "C:\\Users\\MO KADI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MO KADI\\Desktop\\.net course\\mastering c#\\OOP - Field & Constant\\obj\\",
+      "outputPath": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\OOP - Field & Constant\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

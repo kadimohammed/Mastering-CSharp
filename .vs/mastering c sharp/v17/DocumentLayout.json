@@ -1,26 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MO KADI\\Desktop\\.net course\\mastering c#\\",
+  "WorkspaceRootPath": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1ACBA648-D1C9-449D-9316-E23A2E0CB165}|7 Properties\\7 Properties.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering c#\\7 properties\\moteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1ACBA648-D1C9-449D-9316-E23A2E0CB165}|7 Properties\\7 Properties.csproj|solutionrelative:7 properties\\moteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C686670-95E6-4EDA-BC7A-7BABF1E29493}|H- Operator Overloading\\k- Operator Overloading.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\h- operator overloading\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C686670-95E6-4EDA-BC7A-7BABF1E29493}|H- Operator Overloading\\k- Operator Overloading.csproj|solutionrelative:h- operator overloading\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1ACBA648-D1C9-449D-9316-E23A2E0CB165}|7 Properties\\7 Properties.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering c#\\7 properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1ACBA648-D1C9-449D-9316-E23A2E0CB165}|7 Properties\\7 Properties.csproj|solutionrelative:7 properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD984F99-3D45-480A-9D0E-8914573ECB0D}|Expressions\\2 Expressions.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering c#\\expressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD984F99-3D45-480A-9D0E-8914573ECB0D}|Expressions\\2 Expressions.csproj|solutionrelative:expressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83613B24-B50D-4210-8EF6-7721FD6C5A55}|Type Conversion\\3 Type Conversion.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering c#\\type conversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83613B24-B50D-4210-8EF6-7721FD6C5A55}|Type Conversion\\3 Type Conversion.csproj|solutionrelative:type conversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85A8C405-61D4-4DC2-9311-0C20E02A5E01}|OOP - Field \u0026 Constant\\4 OOP - Field \u0026 Constant.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering c#\\oop - field \u0026 constant\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85A8C405-61D4-4DC2-9311-0C20E02A5E01}|OOP - Field \u0026 Constant\\4 OOP - Field \u0026 Constant.csproj|solutionrelative:oop - field \u0026 constant\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C686670-95E6-4EDA-BC7A-7BABF1E29493}|H- Operator Overloading\\H- Operator Overloading.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\h- operator overloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C686670-95E6-4EDA-BC7A-7BABF1E29493}|H- Operator Overloading\\H- Operator Overloading.csproj|solutionrelative:h- operator overloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,75 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Moteur.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\mastering c#\\7 Properties\\Moteur.cs",
-              "RelativeDocumentMoniker": "7 Properties\\Moteur.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\mastering c#\\7 Properties\\Moteur.cs",
-              "RelativeToolTip": "7 Properties\\Moteur.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAowCoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T22:29:16.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\mastering c#\\7 Properties\\Program.cs",
-              "RelativeDocumentMoniker": "7 Properties\\Program.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\mastering c#\\7 Properties\\Program.cs",
-              "RelativeToolTip": "7 Properties\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T22:17:19.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\mastering c#\\Expressions\\Program.cs",
-              "RelativeDocumentMoniker": "Expressions\\Program.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\mastering c#\\Expressions\\Program.cs",
-              "RelativeToolTip": "Expressions\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T22:16:19.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\mastering c#\\Type Conversion\\Program.cs",
-              "RelativeDocumentMoniker": "Type Conversion\\Program.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\mastering c#\\Type Conversion\\Program.cs",
-              "RelativeToolTip": "Type Conversion\\Program.cs",
-              "ViewState": "AQIAAGAAAAAAAAAAAAAAAFkAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T22:15:23.881Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\mastering c#\\OOP - Field \u0026 Constant\\Employee.cs",
-              "RelativeDocumentMoniker": "OOP - Field \u0026 Constant\\Employee.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\mastering c#\\OOP - Field \u0026 Constant\\Employee.cs",
-              "RelativeToolTip": "OOP - Field \u0026 Constant\\Employee.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAgwBkAAAAKAAAA",
+              "DocumentIndex": 0,
+              "Title": "Money.cs",
+              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\H- Operator Overloading\\Money.cs",
+              "RelativeDocumentMoniker": "H- Operator Overloading\\Money.cs",
+              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\H- Operator Overloading\\Money.cs",
+              "RelativeToolTip": "H- Operator Overloading\\Money.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAHIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T17:19:12.558Z",
+              "WhenOpened": "2024-08-14T22:20:11.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\H- Operator Overloading\\Program.cs",
+              "RelativeDocumentMoniker": "H- Operator Overloading\\Program.cs",
+              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\H- Operator Overloading\\Program.cs",
+              "RelativeToolTip": "H- Operator Overloading\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T22:08:47.486Z",
               "EditorCaption": ""
             }
           ]

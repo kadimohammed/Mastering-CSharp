@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MO KADI\\Desktop\\.net course\\mastering c#\\8 indexers\\8 indexers.csproj",
-      "projectName": "8 indexers",
-      "projectPath": "C:\\Users\\MO KADI\\Desktop\\.net course\\mastering c#\\8 indexers\\8 indexers.csproj",
+      "projectUniqueName": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\8 indexers\\H- indexers.csproj",
+      "projectName": "H- indexers",
+      "projectPath": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\8 indexers\\H- indexers.csproj",
       "packagesPath": "C:\\Users\\MO KADI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MO KADI\\Desktop\\.net course\\mastering c#\\8 indexers\\obj\\",
+      "outputPath": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\8 indexers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

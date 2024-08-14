@@ -1,0 +1,15 @@
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\7 Properties\bin\Debug\net8.0\7 Properties.exe
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\7 Properties\bin\Debug\net8.0\7 Properties.deps.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\7 Properties\bin\Debug\net8.0\7 Properties.runtimeconfig.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\7 Properties\bin\Debug\net8.0\7 Properties.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\7 Properties\bin\Debug\net8.0\7 Properties.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\7 Properties\obj\Debug\net8.0\7 Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\7 Properties\obj\Debug\net8.0\7 Properties.AssemblyInfoInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\7 Properties\obj\Debug\net8.0\7 Properties.AssemblyInfo.cs
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\7 Properties\obj\Debug\net8.0\7 Properties.csproj.CoreCompileInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\7 Properties\obj\Debug\net8.0\7 Properties.sourcelink.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\7 Properties\obj\Debug\net8.0\7 Properties.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\7 Properties\obj\Debug\net8.0\refint\7 Properties.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\7 Properties\obj\Debug\net8.0\7 Properties.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\7 Properties\obj\Debug\net8.0\7 Properties.genruntimeconfig.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\7 Properties\obj\Debug\net8.0\ref\7 Properties.dll

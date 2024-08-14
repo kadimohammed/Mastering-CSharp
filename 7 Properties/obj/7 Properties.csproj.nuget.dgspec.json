@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MO KADI\\Desktop\\.net course\\mastering c#\\7 Properties\\7 Properties.csproj": {}
+    "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\7 Properties\\7 Properties.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MO KADI\\Desktop\\.net course\\mastering c#\\7 Properties\\7 Properties.csproj": {
+    "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\7 Properties\\7 Properties.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MO KADI\\Desktop\\.net course\\mastering c#\\7 Properties\\7 Properties.csproj",
+        "projectUniqueName": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\7 Properties\\7 Properties.csproj",
         "projectName": "7 Properties",
-        "projectPath": "C:\\Users\\MO KADI\\Desktop\\.net course\\mastering c#\\7 Properties\\7 Properties.csproj",
+        "projectPath": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\7 Properties\\7 Properties.csproj",
         "packagesPath": "C:\\Users\\MO KADI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MO KADI\\Desktop\\.net course\\mastering c#\\7 Properties\\obj\\",
+        "outputPath": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\7 Properties\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
