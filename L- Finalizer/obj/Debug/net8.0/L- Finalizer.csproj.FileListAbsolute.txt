@@ -1,0 +1,15 @@
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\L- Finalizer\bin\Debug\net8.0\L- Finalizer.exe
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\L- Finalizer\bin\Debug\net8.0\L- Finalizer.deps.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\L- Finalizer\bin\Debug\net8.0\L- Finalizer.runtimeconfig.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\L- Finalizer\bin\Debug\net8.0\L- Finalizer.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\L- Finalizer\bin\Debug\net8.0\L- Finalizer.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\L- Finalizer\obj\Debug\net8.0\L- Finalizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\L- Finalizer\obj\Debug\net8.0\L- Finalizer.AssemblyInfoInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\L- Finalizer\obj\Debug\net8.0\L- Finalizer.AssemblyInfo.cs
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\L- Finalizer\obj\Debug\net8.0\L- Finalizer.csproj.CoreCompileInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\L- Finalizer\obj\Debug\net8.0\L- Finalizer.sourcelink.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\L- Finalizer\obj\Debug\net8.0\L- Finalizer.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\L- Finalizer\obj\Debug\net8.0\refint\L- Finalizer.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\L- Finalizer\obj\Debug\net8.0\L- Finalizer.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\L- Finalizer\obj\Debug\net8.0\L- Finalizer.genruntimeconfig.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\L- Finalizer\obj\Debug\net8.0\ref\L- Finalizer.dll

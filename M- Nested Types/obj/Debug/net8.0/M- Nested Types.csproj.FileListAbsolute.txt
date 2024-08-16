@@ -1,0 +1,15 @@
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\M- Nested Types\bin\Debug\net8.0\M- Nested Types.exe
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\M- Nested Types\bin\Debug\net8.0\M- Nested Types.deps.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\M- Nested Types\bin\Debug\net8.0\M- Nested Types.runtimeconfig.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\M- Nested Types\bin\Debug\net8.0\M- Nested Types.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\M- Nested Types\bin\Debug\net8.0\M- Nested Types.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\M- Nested Types\obj\Debug\net8.0\M- Nested Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\M- Nested Types\obj\Debug\net8.0\M- Nested Types.AssemblyInfoInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\M- Nested Types\obj\Debug\net8.0\M- Nested Types.AssemblyInfo.cs
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\M- Nested Types\obj\Debug\net8.0\M- Nested Types.csproj.CoreCompileInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\M- Nested Types\obj\Debug\net8.0\M- Nested Types.sourcelink.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\M- Nested Types\obj\Debug\net8.0\M- Nested Types.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\M- Nested Types\obj\Debug\net8.0\refint\M- Nested Types.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\M- Nested Types\obj\Debug\net8.0\M- Nested Types.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\M- Nested Types\obj\Debug\net8.0\M- Nested Types.genruntimeconfig.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\M- Nested Types\obj\Debug\net8.0\ref\M- Nested Types.dll
