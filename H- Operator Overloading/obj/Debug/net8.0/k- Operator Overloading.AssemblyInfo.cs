@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("k- Operator Overloading")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0dcda1ea9bf748d848b865f40519c85673c0b63")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5756b325f688678b2542306bbfcfc8308a3b2b62")]
 [assembly: System.Reflection.AssemblyProductAttribute("k- Operator Overloading")]
 [assembly: System.Reflection.AssemblyTitleAttribute("k- Operator Overloading")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

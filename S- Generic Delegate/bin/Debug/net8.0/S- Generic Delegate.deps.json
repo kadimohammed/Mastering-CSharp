@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "S- Generic Delegate/1.0.0": {
+        "runtime": {
+          "S- Generic Delegate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "S- Generic Delegate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

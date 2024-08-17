@@ -1,0 +1,15 @@
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\S- Generic Delegate\obj\Debug\net8.0\S- Generic Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\S- Generic Delegate\obj\Debug\net8.0\S- Generic Delegate.AssemblyInfoInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\S- Generic Delegate\obj\Debug\net8.0\S- Generic Delegate.AssemblyInfo.cs
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\S- Generic Delegate\obj\Debug\net8.0\S- Generic Delegate.csproj.CoreCompileInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\S- Generic Delegate\obj\Debug\net8.0\S- Generic Delegate.sourcelink.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\S- Generic Delegate\bin\Debug\net8.0\S- Generic Delegate.exe
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\S- Generic Delegate\bin\Debug\net8.0\S- Generic Delegate.deps.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\S- Generic Delegate\bin\Debug\net8.0\S- Generic Delegate.runtimeconfig.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\S- Generic Delegate\bin\Debug\net8.0\S- Generic Delegate.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\S- Generic Delegate\bin\Debug\net8.0\S- Generic Delegate.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\S- Generic Delegate\obj\Debug\net8.0\S- Generic Delegate.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\S- Generic Delegate\obj\Debug\net8.0\refint\S- Generic Delegate.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\S- Generic Delegate\obj\Debug\net8.0\S- Generic Delegate.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\S- Generic Delegate\obj\Debug\net8.0\S- Generic Delegate.genruntimeconfig.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\S- Generic Delegate\obj\Debug\net8.0\ref\S- Generic Delegate.dll

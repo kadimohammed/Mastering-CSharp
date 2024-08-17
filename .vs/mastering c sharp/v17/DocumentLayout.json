@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0BA07D9-0AAE-4DDA-A3B5-91EC71049CB7}|S- Generic Delegate\\S- Generic Delegate.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\s- generic delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0BA07D9-0AAE-4DDA-A3B5-91EC71049CB7}|S- Generic Delegate\\S- Generic Delegate.csproj|solutionrelative:s- generic delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B9511FB-7EF5-4216-A55D-70E63B91F45B}|T- Exceptions\\T- Exceptions.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\t- exceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9511FB-7EF5-4216-A55D-70E63B91F45B}|T- Exceptions\\T- Exceptions.csproj|solutionrelative:t- exceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\S- Generic Delegate\\Program.cs",
-              "RelativeDocumentMoniker": "S- Generic Delegate\\Program.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\S- Generic Delegate\\Program.cs",
-              "RelativeToolTip": "S- Generic Delegate\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\T- Exceptions\\Program.cs",
+              "RelativeDocumentMoniker": "T- Exceptions\\Program.cs",
+              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\T- Exceptions\\Program.cs",
+              "RelativeToolTip": "T- Exceptions\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T17:46:10.39Z",
+              "WhenOpened": "2024-08-17T22:47:13.859Z",
               "EditorCaption": ""
             }
           ]
