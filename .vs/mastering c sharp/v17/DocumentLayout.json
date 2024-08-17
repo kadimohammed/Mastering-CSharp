@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BA07D9-0AAE-4DDA-A3B5-91EC71049CB7}|S- Generic Delegate\\S- Generic Delegate.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\s- generic delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BA07D9-0AAE-4DDA-A3B5-91EC71049CB7}|S- Generic Delegate\\S- Generic Delegate.csproj|solutionrelative:s- generic delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\S- Generic Delegate\\Program.cs",
+              "RelativeDocumentMoniker": "S- Generic Delegate\\Program.cs",
+              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\S- Generic Delegate\\Program.cs",
+              "RelativeToolTip": "S- Generic Delegate\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T17:46:10.39Z",
+              "EditorCaption": ""
             }
           ]
         }
