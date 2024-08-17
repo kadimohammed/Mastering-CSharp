@@ -1,0 +1,15 @@
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Q- Interface\bin\Debug\net8.0\Q- Interface.exe
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Q- Interface\bin\Debug\net8.0\Q- Interface.deps.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Q- Interface\bin\Debug\net8.0\Q- Interface.runtimeconfig.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Q- Interface\bin\Debug\net8.0\Q- Interface.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Q- Interface\bin\Debug\net8.0\Q- Interface.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Q- Interface\obj\Debug\net8.0\Q- Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Q- Interface\obj\Debug\net8.0\Q- Interface.AssemblyInfoInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Q- Interface\obj\Debug\net8.0\Q- Interface.AssemblyInfo.cs
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Q- Interface\obj\Debug\net8.0\Q- Interface.csproj.CoreCompileInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Q- Interface\obj\Debug\net8.0\Q- Interface.sourcelink.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Q- Interface\obj\Debug\net8.0\Q- Interface.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Q- Interface\obj\Debug\net8.0\refint\Q- Interface.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Q- Interface\obj\Debug\net8.0\Q- Interface.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Q- Interface\obj\Debug\net8.0\Q- Interface.genruntimeconfig.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Q- Interface\obj\Debug\net8.0\ref\Q- Interface.dll

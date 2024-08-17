@@ -18,10 +18,11 @@ namespace Inheritance
         }
 
 
+
         public sealed override void Move() // methode seald il interdera la redifinition dans les class fille
         {
             //base.Move();
-            Console.WriteLine("the Eagle move"+base.a);
+            Console.WriteLine("the Eagle move" + base.a);
         }
 
 

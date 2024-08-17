@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{FE261CD4-9BA3-4034-865B-2219F3D49527}|P- Inheritance\\P- Inheritance.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\p- inheritance\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE261CD4-9BA3-4034-865B-2219F3D49527}|P- Inheritance\\P- Inheritance.csproj|solutionrelative:p- inheritance\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE261CD4-9BA3-4034-865B-2219F3D49527}|P- Inheritance\\P- Inheritance.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\p- inheritance\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE261CD4-9BA3-4034-865B-2219F3D49527}|P- Inheritance\\P- Inheritance.csproj|solutionrelative:p- inheritance\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE261CD4-9BA3-4034-865B-2219F3D49527}|P- Inheritance\\P- Inheritance.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\p- inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE261CD4-9BA3-4034-865B-2219F3D49527}|P- Inheritance\\P- Inheritance.csproj|solutionrelative:p- inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,50 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Eagle.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\P- Inheritance\\Eagle.cs",
-              "RelativeDocumentMoniker": "P- Inheritance\\Eagle.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\P- Inheritance\\Eagle.cs",
-              "RelativeToolTip": "P- Inheritance\\Eagle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T22:16:00.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Animal.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\P- Inheritance\\Animal.cs",
-              "RelativeDocumentMoniker": "P- Inheritance\\Animal.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\P- Inheritance\\Animal.cs",
-              "RelativeToolTip": "P- Inheritance\\Animal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T22:14:28.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\P- Inheritance\\Program.cs",
-              "RelativeDocumentMoniker": "P- Inheritance\\Program.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\P- Inheritance\\Program.cs",
-              "RelativeToolTip": "P- Inheritance\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T21:55:42.45Z",
-              "EditorCaption": ""
             }
           ]
         }

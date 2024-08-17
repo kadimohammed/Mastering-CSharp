@@ -2,7 +2,6 @@
 using Inheritance;
 
 
-
 Eagle e = new Eagle();
 e.MyProperty = 2;
 Console.WriteLine(e.MyProperty);

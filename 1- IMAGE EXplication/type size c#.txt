@@ -1,0 +1,130 @@
+// Types entiers
+
+byte a = 255; // 8 bits, entier non signé (0 à 255)
+sbyte b = -128; // 8 bits, entier signé (-128 à 127)
+short c = -32768; // 16 bits, entier signé (-32 768 à 32 767)
+ushort d = 65535; // 16 bits, entier non signé (0 à 65 535)
+int e = 2147483647; // 32 bits, entier signé (-2 147 483 648 à 2 147 483 647)
+uint f = 4294967295; // 32 bits, entier non signé (0 à 4 294 967 295)
+long g = 9223372036854775807; // 64 bits, entier signé (-9 223 372 036 854 775 808 à 9 223 372 036 854 775 807)
+ulong h = 18446744073709551615; // 64 bits, entier non signé (0 à 18 446 744 073 709 551 615)
+
+// Types à virgule flottante
+
+float i = 3.14f; // 32 bits, nombre à virgule flottante simple précision (~6-7 chiffres significatifs)
+double j = 3.141592653589793; // 64 bits, nombre à virgule flottante double précision (~15-16 chiffres significatifs)
+
+// Type décimal
+
+decimal k = 79228162514264337593543950335m; // 128 bits, nombre décimal avec une grande précision et une gamme de valeurs plus restreinte par rapport aux types float et double (utilisé pour les valeurs monétaires)
+
+// Type caractère
+
+char l = 'A'; // 16 bits, caractère Unicode (0 à 65 535)
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// Types entiers
+
+var a = 0; // int (32 bits, entier signé)
+var b = 0L; // long (64 bits, entier signé)
+var c = (short)0; // short (16 bits, entier signé)
+var d = (sbyte)0; // sbyte (8 bits, entier signé)
+var e = (byte)0; // byte (8 bits, entier non signé)
+var f = (ushort)0; // ushort (16 bits, entier non signé)
+var g = 0U; // uint (32 bits, entier non signé)
+var h = 0UL; // ulong (64 bits, entier non signé)
+
+// Types à virgule flottante
+
+var i = 0f; // float (32 bits, nombre à virgule flottante simple précision)
+var j = 0d; // double (64 bits, nombre à virgule flottante double précision)
+
+// Type décimal
+
+var k = 0m; // decimal (128 bits, nombre décimal avec une grande précision)
+
+// Type caractère
+
+var l = 'A'; // char (16 bits, caractère Unicode)
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+En C#, `&&` réalise un court-circuit logique, ce qui signifie qu'il n'évalue pas la deuxième condition si la première est fausse, tandis que `&` évalue toujours les deux conditions, même si la première est fausse.
+
+
+// Logical And &&
+Console.WriteLine(true && true); // True
+Console.WriteLine(true && false); // false
+Console.WriteLine(false && true); // false 
+Console.WriteLine(false && false); // false
+
+// Logical Or ||
+Console.WriteLine(true || true); // True
+Console.WriteLine(true || false); // True
+Console.WriteLine(false || true); // True
+Console.WriteLine(false || false); // false
+
+// Logical XOR ^
+Console.WriteLine(true ^ true); // false
+Console.WriteLine(true ^ false); // True
+Console.WriteLine(false ^ true); // True
+Console.WriteLine(false ^ false); // false
+
+
+Le code montre les différentes opérations logiques en C# utilisant les opérateurs ||, &&, et ^.
+
+|| est l'opérateur "ou logique". Il retourne true si au moins une des conditions est vraie.
+
+&& est l'opérateur "et logique". Il retourne true uniquement si les deux conditions sont vraies.
+
+^ est l'opérateur "ou exclusif". Il retourne true si une et une seule des conditions est vraie, mais false si les deux sont vraies ou les deux sont fausses.
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+alias c#
+
+using st = System.String;
+
+class Program
+{
+    static void Main()
+    {
+        st message = "Hello, world!";
+        Console.WriteLine(message);
+    }
+}
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+string str1 = "Hello";
+string str2 = "Hello";
+string str3 = new string("Hello".ToCharArray());
+
+Console.WriteLine(str1 == str2); // true (valeurs égales)
+Console.WriteLine(str1 == str3); // true (valeurs égales)
+
+
+
+Console.WriteLine(str1.Equals(str2)); // true (valeurs égales)
+Console.WriteLine(str1.Equals(str3)); // true (valeurs égales)
+
+
+Console.WriteLine(str1.CompareTo(str2)); // 0 (valeurs égales)
+Console.WriteLine(str1.CompareTo("World")); // Négatif (str1 < "World")
+
+
+Console.WriteLine(Object.ReferenceEquals(str1, str2)); // True (interner string pool)
+Console.WriteLine(Object.ReferenceEquals(str1, str3)); // False (nouvelle instance)
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+
