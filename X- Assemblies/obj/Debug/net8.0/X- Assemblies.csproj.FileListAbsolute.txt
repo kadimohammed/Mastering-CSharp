@@ -1,0 +1,20 @@
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\X- Assemblies\bin\Debug\net8.0\X- Assemblies.exe
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\X- Assemblies\bin\Debug\net8.0\X- Assemblies.deps.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\X- Assemblies\bin\Debug\net8.0\X- Assemblies.runtimeconfig.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\X- Assemblies\bin\Debug\net8.0\X- Assemblies.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\X- Assemblies\bin\Debug\net8.0\X- Assemblies.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\X- Assemblies\obj\Debug\net8.0\X- Assemblies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\X- Assemblies\obj\Debug\net8.0\X- Assemblies.AssemblyInfoInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\X- Assemblies\obj\Debug\net8.0\X- Assemblies.AssemblyInfo.cs
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\X- Assemblies\obj\Debug\net8.0\X- Assemblies.csproj.CoreCompileInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\X- Assemblies\obj\Debug\net8.0\X- Assemblies.sourcelink.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\X- Assemblies\obj\Debug\net8.0\X- Assemblies.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\X- Assemblies\obj\Debug\net8.0\refint\X- Assemblies.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\X- Assemblies\obj\Debug\net8.0\X- Assemblies.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\X- Assemblies\obj\Debug\net8.0\X- Assemblies.genruntimeconfig.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\X- Assemblies\obj\Debug\net8.0\ref\X- Assemblies.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\X- Assemblies\bin\Debug\net8.0\X- ClassLibrary.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\X- Assemblies\bin\Debug\net8.0\X- ClassLibrary.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\X- Assemblies\obj\Debug\net8.0\X- Assemblies.csproj.AssemblyReference.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\X- Assemblies\obj\Debug\net8.0\X- Assem.27486935.Up2Date
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\X- Assemblies\bin\Debug\net8.0\contries.json

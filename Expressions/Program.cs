@@ -63,12 +63,15 @@ switch (val)
 
 
 
-object obje = "kadi";
+object obje = -7;
 
 switch (obje)
 {
-    case int t:
-        Console.WriteLine("int " + t);
+    case int t when t > 0:
+        Console.WriteLine("int > 0 : " + t);
+        break;
+    case int t when t < 0:
+        Console.WriteLine("int < 0 : " + t);
         break;
     case float t:
         Console.WriteLine("float " + t);

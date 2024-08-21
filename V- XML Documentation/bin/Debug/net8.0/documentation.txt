@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>V- XML Documentation</name>
+    </assembly>
+    <members>
+        <member name="T:V__XML_Documentation.employee">
+            <summary>
+            class employeee
+            </summary>
+            <remarks>
+            cette class peut gerer les mot de pass
+            </remarks>
+        </member>
+        <member name="P:V__XML_Documentation.employee.Nom">
+            <value> Nom de l'employee </value>
+        </member>
+        <member name="M:V__XML_Documentation.employee.GeneratePassword(System.Int32)">
+            <summary>
+            Generates a random password of the specified <paramref name="length"/>.
+            </summary>
+            <param name="length">The desired length of the generated password.</param>
+            <returns>A randomly generated password string of the specified length.</returns>
+            <example>
+            <code>
+            var password = GeneratePassword(10);
+            Console.WriteLine(password); // Example output: "a8Fj2kL9z1"
+            </code>
+            </example>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:V__XML_Documentation.employee.FindMax(System.Collections.Generic.List{System.Int32})" -->
+    </members>
+</doc>

@@ -1,0 +1,15 @@
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\T- Exceptions\bin\Debug\net8.0\T- Exceptions.exe
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\T- Exceptions\bin\Debug\net8.0\T- Exceptions.deps.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\T- Exceptions\bin\Debug\net8.0\T- Exceptions.runtimeconfig.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\T- Exceptions\bin\Debug\net8.0\T- Exceptions.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\T- Exceptions\bin\Debug\net8.0\T- Exceptions.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\T- Exceptions\obj\Debug\net8.0\T- Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\T- Exceptions\obj\Debug\net8.0\T- Exceptions.AssemblyInfoInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\T- Exceptions\obj\Debug\net8.0\T- Exceptions.AssemblyInfo.cs
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\T- Exceptions\obj\Debug\net8.0\T- Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\T- Exceptions\obj\Debug\net8.0\T- Exceptions.sourcelink.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\T- Exceptions\obj\Debug\net8.0\T- Exceptions.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\T- Exceptions\obj\Debug\net8.0\refint\T- Exceptions.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\T- Exceptions\obj\Debug\net8.0\T- Exceptions.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\T- Exceptions\obj\Debug\net8.0\T- Exceptions.genruntimeconfig.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\T- Exceptions\obj\Debug\net8.0\ref\T- Exceptions.dll

@@ -1,0 +1,15 @@
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\W- Extension Methods\bin\Debug\net8.0\W- Extension Methods.exe
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\W- Extension Methods\bin\Debug\net8.0\W- Extension Methods.deps.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\W- Extension Methods\bin\Debug\net8.0\W- Extension Methods.runtimeconfig.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\W- Extension Methods\bin\Debug\net8.0\W- Extension Methods.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\W- Extension Methods\bin\Debug\net8.0\W- Extension Methods.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\W- Extension Methods\obj\Debug\net8.0\W- Extension Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\W- Extension Methods\obj\Debug\net8.0\W- Extension Methods.AssemblyInfoInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\W- Extension Methods\obj\Debug\net8.0\W- Extension Methods.AssemblyInfo.cs
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\W- Extension Methods\obj\Debug\net8.0\W- Extension Methods.csproj.CoreCompileInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\W- Extension Methods\obj\Debug\net8.0\W- Extension Methods.sourcelink.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\W- Extension Methods\obj\Debug\net8.0\W- Extension Methods.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\W- Extension Methods\obj\Debug\net8.0\refint\W- Extension Methods.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\W- Extension Methods\obj\Debug\net8.0\W- Extension Methods.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\W- Extension Methods\obj\Debug\net8.0\W- Extension Methods.genruntimeconfig.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\W- Extension Methods\obj\Debug\net8.0\ref\W- Extension Methods.dll

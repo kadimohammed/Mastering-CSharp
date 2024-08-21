@@ -15,13 +15,33 @@ using OOP___Field___Constant;
 
 // Single => float   => 32 bits
 // Double => double  => 64 bits
-// Decimal => decimal => 128 bits
+// Decimal => decimal => 128 bits 
 
 // Byte => byte    => 8 bits   0 à 255
 // SByte => sbyte  => 8 bits   -128 à 127
 
 // Char => char
 // Boolean => bool
+
+
+/*
+var shortValue = (short)10;    // Type short
+var intValue = 100;            // Type int
+var longValue = 100L;          // Type long
+
+
+var ushortValue = (ushort)10;  // Type ushort
+var uintValue = 100u;          // Type uint
+var ulongValue = 100UL;        // Type ulong
+
+var floatValue = 1.0f;         // Type float
+var doubleValue = 1.0;         // Type double
+var decimalValue = 1.0m;       // Type decimal
+
+
+var byteValue = (byte)1;       // Type byte
+var sbyteValue = (sbyte)-1;    // Type sbyte
+*/
 
 
 
@@ -37,8 +57,8 @@ if (numb < int.MaxValue)
 
 // Boxing / UnBoxing /////////////////////////////////////////
 
-int num1 = 4; // value type
-Object oo = num1; //Boxing => value type --> reference type
+int num1 = 4;       // value type
+Object oo = num1;   //Boxing => value type --> reference type
 int num2 = (int)oo; //unboxing => reference type --> value type
 
 
@@ -47,8 +67,8 @@ int num2 = (int)oo; //unboxing => reference type --> value type
 // string numeroo = "1238888888888888888"; // over flow exception
 // string numeroo = "123hf"; // format exception
 
-//solution
 
+//solution
 string numeroo = "123";
 
 int numerot2 = int.Parse(numeroo);
@@ -78,6 +98,7 @@ long longValue = Convert.ToInt64(stringValue);
 ushort ushortValue = Convert.ToUInt16(stringValue);
 uint uintValue = Convert.ToUInt32(stringValue);
 ulong ulongValue = Convert.ToUInt64(stringValue);
+
 
 // bit covertor ///////////////////////////////////////////////////////////////
 

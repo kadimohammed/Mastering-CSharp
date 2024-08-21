@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "X- Assemblies/1.0.0": {
+        "runtime": {
+          "X- Assemblies.dll": {}
+        }
+      },
+      "X- ClassLibrary/1.0.0": {
+        "runtime": {
+          "X- ClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "X- Assemblies/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "X- ClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

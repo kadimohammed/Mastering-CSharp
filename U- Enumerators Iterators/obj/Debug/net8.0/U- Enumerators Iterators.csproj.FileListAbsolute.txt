@@ -1,0 +1,15 @@
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\U- Enumerators Iterators\bin\Debug\net8.0\U- Enumerators Iterators.exe
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\U- Enumerators Iterators\bin\Debug\net8.0\U- Enumerators Iterators.deps.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\U- Enumerators Iterators\bin\Debug\net8.0\U- Enumerators Iterators.runtimeconfig.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\U- Enumerators Iterators\bin\Debug\net8.0\U- Enumerators Iterators.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\U- Enumerators Iterators\bin\Debug\net8.0\U- Enumerators Iterators.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\U- Enumerators Iterators\obj\Debug\net8.0\U- Enumerators Iterators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\U- Enumerators Iterators\obj\Debug\net8.0\U- Enumerators Iterators.AssemblyInfoInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\U- Enumerators Iterators\obj\Debug\net8.0\U- Enumerators Iterators.AssemblyInfo.cs
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\U- Enumerators Iterators\obj\Debug\net8.0\U- Enumerators Iterators.csproj.CoreCompileInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\U- Enumerators Iterators\obj\Debug\net8.0\U- Enumerators Iterators.sourcelink.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\U- Enumerators Iterators\obj\Debug\net8.0\U- Enumerators Iterators.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\U- Enumerators Iterators\obj\Debug\net8.0\refint\U- Enumerators Iterators.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\U- Enumerators Iterators\obj\Debug\net8.0\U- Enumerators Iterators.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\U- Enumerators Iterators\obj\Debug\net8.0\U- Enumerators Iterators.genruntimeconfig.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\U- Enumerators Iterators\obj\Debug\net8.0\ref\U- Enumerators Iterators.dll

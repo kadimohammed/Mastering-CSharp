@@ -1,6 +1,4 @@
 ﻿
-
-
 // single dimention array -----------------------------------------------
 
 
@@ -127,18 +125,6 @@ var plage3 = tableau[1..5];
 Range rr = 1..5;
 var plage4 = tableau[rr];
 print(plage4);
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
