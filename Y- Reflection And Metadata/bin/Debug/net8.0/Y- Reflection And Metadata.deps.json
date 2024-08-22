@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Y- Reflection And Metadata/1.0.0": {
+        "runtime": {
+          "Y- Reflection And Metadata.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Y- Reflection And Metadata/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

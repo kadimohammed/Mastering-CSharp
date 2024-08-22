@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24C2B6-7CDB-4391-962F-177A8ED7612B}|Y- Reflection And Metadata\\Y- Reflection And Metadata.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\y- reflection and metadata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA24C2B6-7CDB-4391-962F-177A8ED7612B}|Y- Reflection And Metadata\\Y- Reflection And Metadata.csproj|solutionrelative:y- reflection and metadata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24C2B6-7CDB-4391-962F-177A8ED7612B}|Y- Reflection And Metadata\\Y- Reflection And Metadata.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\y- reflection and metadata\\banqueaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA24C2B6-7CDB-4391-962F-177A8ED7612B}|Y- Reflection And Metadata\\Y- Reflection And Metadata.csproj|solutionrelative:y- reflection and metadata\\banqueaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24C2B6-7CDB-4391-962F-177A8ED7612B}|Y- Reflection And Metadata\\Y- Reflection And Metadata.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\y- reflection and metadata\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA24C2B6-7CDB-4391-962F-177A8ED7612B}|Y- Reflection And Metadata\\Y- Reflection And Metadata.csproj|solutionrelative:y- reflection and metadata\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,51 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\Y- Reflection And Metadata\\Player.cs",
+              "RelativeDocumentMoniker": "Y- Reflection And Metadata\\Player.cs",
+              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\Y- Reflection And Metadata\\Player.cs",
+              "RelativeToolTip": "Y- Reflection And Metadata\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:34:35.14Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BanqueAccount.cs",
+              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\Y- Reflection And Metadata\\BanqueAccount.cs",
+              "RelativeDocumentMoniker": "Y- Reflection And Metadata\\BanqueAccount.cs",
+              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\Y- Reflection And Metadata\\BanqueAccount.cs",
+              "RelativeToolTip": "Y- Reflection And Metadata\\BanqueAccount.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwCkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T09:32:10.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\Y- Reflection And Metadata\\Program.cs",
+              "RelativeDocumentMoniker": "Y- Reflection And Metadata\\Program.cs",
+              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\Y- Reflection And Metadata\\Program.cs",
+              "RelativeToolTip": "Y- Reflection And Metadata\\Program.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAwwHcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:04:26.472Z",
+              "EditorCaption": ""
             }
           ]
         }

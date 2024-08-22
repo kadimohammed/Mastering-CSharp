@@ -1,0 +1,15 @@
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Y- Reflection And Metadata\bin\Debug\net8.0\Y- Reflection And Metadata.exe
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Y- Reflection And Metadata\bin\Debug\net8.0\Y- Reflection And Metadata.deps.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Y- Reflection And Metadata\bin\Debug\net8.0\Y- Reflection And Metadata.runtimeconfig.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Y- Reflection And Metadata\bin\Debug\net8.0\Y- Reflection And Metadata.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Y- Reflection And Metadata\bin\Debug\net8.0\Y- Reflection And Metadata.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Y- Reflection And Metadata\obj\Debug\net8.0\Y- Reflection And Metadata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Y- Reflection And Metadata\obj\Debug\net8.0\Y- Reflection And Metadata.AssemblyInfoInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Y- Reflection And Metadata\obj\Debug\net8.0\Y- Reflection And Metadata.AssemblyInfo.cs
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Y- Reflection And Metadata\obj\Debug\net8.0\Y- Reflection And Metadata.csproj.CoreCompileInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Y- Reflection And Metadata\obj\Debug\net8.0\Y- Reflection And Metadata.sourcelink.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Y- Reflection And Metadata\obj\Debug\net8.0\Y- Reflection And Metadata.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Y- Reflection And Metadata\obj\Debug\net8.0\refint\Y- Reflection And Metadata.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Y- Reflection And Metadata\obj\Debug\net8.0\Y- Reflection And Metadata.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Y- Reflection And Metadata\obj\Debug\net8.0\Y- Reflection And Metadata.genruntimeconfig.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Y- Reflection And Metadata\obj\Debug\net8.0\ref\Y- Reflection And Metadata.dll

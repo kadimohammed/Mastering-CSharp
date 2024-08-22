@@ -43,17 +43,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S- Generic Delegate", "S- G
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T- Exceptions", "T- Exceptions\T- Exceptions.csproj", "{2B9511FB-7EF5-4216-A55D-70E63B91F45B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U- Enumerators Iterators", "U- Enumerators Iterators\U- Enumerators Iterators.csproj", "{DD2A855A-609A-4BB3-8256-4257126EFBCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "U- Enumerators Iterators", "U- Enumerators Iterators\U- Enumerators Iterators.csproj", "{DD2A855A-609A-4BB3-8256-4257126EFBCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V- XML Documentation", "V- XML Documentation\V- XML Documentation.csproj", "{84221AB2-CEEE-4B6E-AA25-2AB8E4B45CB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "V- XML Documentation", "V- XML Documentation\V- XML Documentation.csproj", "{84221AB2-CEEE-4B6E-AA25-2AB8E4B45CB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W- Extension Methods", "W- Extension Methods\W- Extension Methods.csproj", "{02045553-C830-44EF-8592-EDD8FA7E167F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W- Extension Methods", "W- Extension Methods\W- Extension Methods.csproj", "{02045553-C830-44EF-8592-EDD8FA7E167F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Y- Reflection And Metadata", "Y- Reflection And Metadata\Y- Reflection And Metadata.csproj", "{AA24C2B6-7CDB-4391-962F-177A8ED7612B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Y- Reflection And Metadata", "Y- Reflection And Metadata\Y- Reflection And Metadata.csproj", "{AA24C2B6-7CDB-4391-962F-177A8ED7612B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "X- Assemblies", "X- Assemblies\X- Assemblies.csproj", "{6DB710CA-E9F0-4C3E-B2D4-771BAA5BFB22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "X- Assemblies", "X- Assemblies\X- Assemblies.csproj", "{6DB710CA-E9F0-4C3E-B2D4-771BAA5BFB22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "X- ClassLibrary", "X- ClassLibrary\X- ClassLibrary.csproj", "{BCFE30D0-86A1-48FC-8362-A6926BB2351C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "X- ClassLibrary", "X- ClassLibrary\X- ClassLibrary.csproj", "{BCFE30D0-86A1-48FC-8362-A6926BB2351C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
