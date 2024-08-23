@@ -1,0 +1,15 @@
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Z1- Lists And Dictionaries\bin\Debug\net8.0\Z1- Lists And Dictionaries.exe
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Z1- Lists And Dictionaries\bin\Debug\net8.0\Z1- Lists And Dictionaries.deps.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Z1- Lists And Dictionaries\bin\Debug\net8.0\Z1- Lists And Dictionaries.runtimeconfig.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Z1- Lists And Dictionaries\bin\Debug\net8.0\Z1- Lists And Dictionaries.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Z1- Lists And Dictionaries\bin\Debug\net8.0\Z1- Lists And Dictionaries.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Z1- Lists And Dictionaries\obj\Debug\net8.0\Z1- Lists And Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Z1- Lists And Dictionaries\obj\Debug\net8.0\Z1- Lists And Dictionaries.AssemblyInfoInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Z1- Lists And Dictionaries\obj\Debug\net8.0\Z1- Lists And Dictionaries.AssemblyInfo.cs
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Z1- Lists And Dictionaries\obj\Debug\net8.0\Z1- Lists And Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Z1- Lists And Dictionaries\obj\Debug\net8.0\Z1- Lists And Dictionaries.sourcelink.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Z1- Lists And Dictionaries\obj\Debug\net8.0\Z1- Lists And Dictionaries.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Z1- Lists And Dictionaries\obj\Debug\net8.0\refint\Z1- Lists And Dictionaries.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Z1- Lists And Dictionaries\obj\Debug\net8.0\Z1- Lists And Dictionaries.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Z1- Lists And Dictionaries\obj\Debug\net8.0\Z1- Lists And Dictionaries.genruntimeconfig.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Z1- Lists And Dictionaries\obj\Debug\net8.0\ref\Z1- Lists And Dictionaries.dll
