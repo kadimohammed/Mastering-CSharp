@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ZB- Stack and Queue/1.0.0": {
+        "runtime": {
+          "ZB- Stack and Queue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZB- Stack and Queue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

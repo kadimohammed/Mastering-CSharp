@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\Z1- Lists And Dictionaries\\Z1- Lists And Dictionaries.csproj",
-      "projectName": "Z1- Lists And Dictionaries",
-      "projectPath": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\Z1- Lists And Dictionaries\\Z1- Lists And Dictionaries.csproj",
+      "projectUniqueName": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\Z1- Lists And Dictionaries\\ZA- Lists And Dictionaries.csproj",
+      "projectName": "ZA- Lists And Dictionaries",
+      "projectPath": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\Z1- Lists And Dictionaries\\ZA- Lists And Dictionaries.csproj",
       "packagesPath": "C:\\Users\\MO KADI\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\Z1- Lists And Dictionaries\\obj\\",
       "projectStyle": "PackageReference",

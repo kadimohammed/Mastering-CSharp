@@ -1,0 +1,15 @@
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Stack and Queue\bin\Debug\net8.0\ZB- Stack and Queue.exe
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Stack and Queue\bin\Debug\net8.0\ZB- Stack and Queue.deps.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Stack and Queue\bin\Debug\net8.0\ZB- Stack and Queue.runtimeconfig.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Stack and Queue\bin\Debug\net8.0\ZB- Stack and Queue.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Stack and Queue\bin\Debug\net8.0\ZB- Stack and Queue.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Stack and Queue\obj\Debug\net8.0\ZB- Stack and Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Stack and Queue\obj\Debug\net8.0\ZB- Stack and Queue.AssemblyInfoInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Stack and Queue\obj\Debug\net8.0\ZB- Stack and Queue.AssemblyInfo.cs
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Stack and Queue\obj\Debug\net8.0\ZB- Stack and Queue.csproj.CoreCompileInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Stack and Queue\obj\Debug\net8.0\ZB- Stack and Queue.sourcelink.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Stack and Queue\obj\Debug\net8.0\ZB- Stack and Queue.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Stack and Queue\obj\Debug\net8.0\refint\ZB- Stack and Queue.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Stack and Queue\obj\Debug\net8.0\ZB- Stack and Queue.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Stack and Queue\obj\Debug\net8.0\ZB- Stack and Queue.genruntimeconfig.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\Stack and Queue\obj\Debug\net8.0\ref\ZB- Stack and Queue.dll

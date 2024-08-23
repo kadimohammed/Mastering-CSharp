@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{774F7056-4C12-4EDF-806E-87961A212E67}|Z1- Lists And Dictionaries\\Z1- Lists And Dictionaries.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\z1- lists and dictionaries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{774F7056-4C12-4EDF-806E-87961A212E67}|Z1- Lists And Dictionaries\\Z1- Lists And Dictionaries.csproj|solutionrelative:z1- lists and dictionaries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D308F9A-B36A-4D8A-A98A-AD35DF8C21B6}|Stack and Queue\\ZB- Stack and Queue.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\stack and queue\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D308F9A-B36A-4D8A-A98A-AD35DF8C21B6}|Stack and Queue\\ZB- Stack and Queue.csproj|solutionrelative:stack and queue\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F9E8A70-589C-4E12-B056-05B69176C78E}|Z- Attributes\\Z- Attributes.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\z- attributes\\filedownload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F9E8A70-589C-4E12-B056-05B69176C78E}|Z- Attributes\\Z- Attributes.csproj|solutionrelative:z- attributes\\filedownload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D308F9A-B36A-4D8A-A98A-AD35DF8C21B6}|Stack and Queue\\Stack and Queue.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\stack and queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D308F9A-B36A-4D8A-A98A-AD35DF8C21B6}|Stack and Queue\\Stack and Queue.csproj|solutionrelative:stack and queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F9E8A70-589C-4E12-B056-05B69176C78E}|Z- Attributes\\Z- Attributes.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\z- attributes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F9E8A70-589C-4E12-B056-05B69176C78E}|Z- Attributes\\Z- Attributes.csproj|solutionrelative:z- attributes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D308F9A-B36A-4D8A-A98A-AD35DF8C21B6}|Stack and Queue\\ZB- Stack and Queue.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\stack and queue\\coppy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D308F9A-B36A-4D8A-A98A-AD35DF8C21B6}|Stack and Queue\\ZB- Stack and Queue.csproj|solutionrelative:stack and queue\\coppy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,49 +22,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\Z1- Lists And Dictionaries\\Program.cs",
-              "RelativeDocumentMoniker": "Z1- Lists And Dictionaries\\Program.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\Z1- Lists And Dictionaries\\Program.cs",
-              "RelativeToolTip": "Z1- Lists And Dictionaries\\Program.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAAAE8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T09:34:57.788Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FileDownload.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\Z- Attributes\\FileDownload.cs",
-              "RelativeDocumentMoniker": "Z- Attributes\\FileDownload.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\Z- Attributes\\FileDownload.cs",
-              "RelativeToolTip": "Z- Attributes\\FileDownload.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "DocumentIndex": 0,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\Stack and Queue\\Command.cs",
+              "RelativeDocumentMoniker": "Stack and Queue\\Command.cs",
+              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\Stack and Queue\\Command.cs",
+              "RelativeToolTip": "Stack and Queue\\Command.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T10:55:46.547Z",
+              "WhenOpened": "2024-08-23T16:05:42.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\Z- Attributes\\Program.cs",
-              "RelativeDocumentMoniker": "Z- Attributes\\Program.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\Z- Attributes\\Program.cs",
-              "RelativeToolTip": "Z- Attributes\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Title": "Coppy.cs",
+              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\Stack and Queue\\Coppy.cs",
+              "RelativeDocumentMoniker": "Stack and Queue\\Coppy.cs",
+              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\Stack and Queue\\Coppy.cs",
+              "RelativeToolTip": "Stack and Queue\\Coppy.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T10:55:23.835Z",
+              "WhenOpened": "2024-08-23T15:46:03.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\Stack and Queue\\Program.cs",
+              "RelativeDocumentMoniker": "Stack and Queue\\Program.cs",
+              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\Stack and Queue\\Program.cs",
+              "RelativeToolTip": "Stack and Queue\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:40:00.024Z",
               "EditorCaption": ""
             }
           ]
