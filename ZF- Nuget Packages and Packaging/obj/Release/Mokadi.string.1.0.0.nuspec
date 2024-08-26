@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Mokadi.string</id>
+    <version>1.0.0</version>
+    <authors>ZF- Nuget Packages and Packaging</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="3234ae4e1c702e0aa5cf86f31278340fd446c5ec" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZF- Nuget Packages and Packaging\bin\Release\net8.0\ZF- Nuget Packages and Packaging.dll" target="lib\net8.0\ZF- Nuget Packages and Packaging.dll" />
+  </files>
+</package>

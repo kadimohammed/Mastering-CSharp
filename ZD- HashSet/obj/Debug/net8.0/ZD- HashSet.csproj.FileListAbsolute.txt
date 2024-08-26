@@ -1,0 +1,15 @@
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZD- HashSet\bin\Debug\net8.0\ZD- HashSet.exe
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZD- HashSet\bin\Debug\net8.0\ZD- HashSet.deps.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZD- HashSet\bin\Debug\net8.0\ZD- HashSet.runtimeconfig.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZD- HashSet\bin\Debug\net8.0\ZD- HashSet.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZD- HashSet\bin\Debug\net8.0\ZD- HashSet.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZD- HashSet\obj\Debug\net8.0\ZD- HashSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZD- HashSet\obj\Debug\net8.0\ZD- HashSet.AssemblyInfoInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZD- HashSet\obj\Debug\net8.0\ZD- HashSet.AssemblyInfo.cs
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZD- HashSet\obj\Debug\net8.0\ZD- HashSet.csproj.CoreCompileInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZD- HashSet\obj\Debug\net8.0\ZD- HashSet.sourcelink.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZD- HashSet\obj\Debug\net8.0\ZD- HashSet.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZD- HashSet\obj\Debug\net8.0\refint\ZD- HashSet.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZD- HashSet\obj\Debug\net8.0\ZD- HashSet.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZD- HashSet\obj\Debug\net8.0\ZD- HashSet.genruntimeconfig.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZD- HashSet\obj\Debug\net8.0\ref\ZD- HashSet.dll

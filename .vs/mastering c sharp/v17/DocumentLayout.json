@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D308F9A-B36A-4D8A-A98A-AD35DF8C21B6}|Stack and Queue\\ZB- Stack and Queue.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\stack and queue\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D308F9A-B36A-4D8A-A98A-AD35DF8C21B6}|Stack and Queue\\ZB- Stack and Queue.csproj|solutionrelative:stack and queue\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58D908DD-8971-456C-BFB6-5D58B2F657B0}|ZF- Nuget Packages and Packaging\\ZF- Nuget Packages and Packaging.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\zf- nuget packages and packaging\\messagemokadiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D908DD-8971-456C-BFB6-5D58B2F657B0}|ZF- Nuget Packages and Packaging\\ZF- Nuget Packages and Packaging.csproj|solutionrelative:zf- nuget packages and packaging\\messagemokadiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D308F9A-B36A-4D8A-A98A-AD35DF8C21B6}|Stack and Queue\\Stack and Queue.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\stack and queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D308F9A-B36A-4D8A-A98A-AD35DF8C21B6}|Stack and Queue\\Stack and Queue.csproj|solutionrelative:stack and queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{515F3245-F2E0-48EC-ADF3-7053A572976F}|ZE- Stream IO\\ZE- Stream IO.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\ze- stream io\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{515F3245-F2E0-48EC-ADF3-7053A572976F}|ZE- Stream IO\\ZE- Stream IO.csproj|solutionrelative:ze- stream io\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D308F9A-B36A-4D8A-A98A-AD35DF8C21B6}|Stack and Queue\\ZB- Stack and Queue.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\stack and queue\\coppy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D308F9A-B36A-4D8A-A98A-AD35DF8C21B6}|Stack and Queue\\ZB- Stack and Queue.csproj|solutionrelative:stack and queue\\coppy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{515F3245-F2E0-48EC-ADF3-7053A572976F}|ZE- Stream IO\\ZE- Stream IO.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\ze- stream io\\curenciesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{515F3245-F2E0-48EC-ADF3-7053A572976F}|ZE- Stream IO\\ZE- Stream IO.csproj|solutionrelative:ze- stream io\\curenciesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{515F3245-F2E0-48EC-ADF3-7053A572976F}|ZE- Stream IO\\ZE- Stream IO.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\ze- stream io\\example.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{515F3245-F2E0-48EC-ADF3-7053A572976F}|ZE- Stream IO\\ZE- Stream IO.csproj|solutionrelative:ze- stream io\\example.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,40 +39,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Command.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\Stack and Queue\\Command.cs",
-              "RelativeDocumentMoniker": "Stack and Queue\\Command.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\Stack and Queue\\Command.cs",
-              "RelativeToolTip": "Stack and Queue\\Command.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "MessageMOKADIExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZF- Nuget Packages and Packaging\\MessageMOKADIExtensions.cs",
+              "RelativeDocumentMoniker": "ZF- Nuget Packages and Packaging\\MessageMOKADIExtensions.cs",
+              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZF- Nuget Packages and Packaging\\MessageMOKADIExtensions.cs",
+              "RelativeToolTip": "ZF- Nuget Packages and Packaging\\MessageMOKADIExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T16:05:42.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Coppy.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\Stack and Queue\\Coppy.cs",
-              "RelativeDocumentMoniker": "Stack and Queue\\Coppy.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\Stack and Queue\\Coppy.cs",
-              "RelativeToolTip": "Stack and Queue\\Coppy.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T15:46:03.816Z",
+              "WhenOpened": "2024-08-26T17:53:47.322Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\Stack and Queue\\Program.cs",
-              "RelativeDocumentMoniker": "Stack and Queue\\Program.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\Stack and Queue\\Program.cs",
-              "RelativeToolTip": "Stack and Queue\\Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACsAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZE- Stream IO\\Program.cs",
+              "RelativeDocumentMoniker": "ZE- Stream IO\\Program.cs",
+              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZE- Stream IO\\Program.cs",
+              "RelativeToolTip": "ZE- Stream IO\\Program.cs",
+              "ViewState": "AQIAAMQAAAAAAAAAAAAAAOAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T11:40:00.024Z",
+              "WhenOpened": "2024-08-26T12:49:56.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "example.txt",
+              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZE- Stream IO\\example.txt",
+              "RelativeDocumentMoniker": "ZE- Stream IO\\example.txt",
+              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZE- Stream IO\\example.txt",
+              "RelativeToolTip": "ZE- Stream IO\\example.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-26T12:49:29.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CurenciesService.cs",
+              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZE- Stream IO\\CurenciesService.cs",
+              "RelativeDocumentMoniker": "ZE- Stream IO\\CurenciesService.cs",
+              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZE- Stream IO\\CurenciesService.cs",
+              "RelativeToolTip": "ZE- Stream IO\\CurenciesService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwCIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:25:53.15Z",
               "EditorCaption": ""
             }
           ]

@@ -59,7 +59,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Z- Attributes", "Z- Attribu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZA- Lists And Dictionaries", "Z1- Lists And Dictionaries\ZA- Lists And Dictionaries.csproj", "{774F7056-4C12-4EDF-806E-87961A212E67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZB- Stack and Queue", "Stack and Queue\ZB- Stack and Queue.csproj", "{1D308F9A-B36A-4D8A-A98A-AD35DF8C21B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZB- Stack and Queue", "Stack and Queue\ZB- Stack and Queue.csproj", "{1D308F9A-B36A-4D8A-A98A-AD35DF8C21B6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZC- LinkedList", "ZC- LinkedList HashSet SortedSet\ZC- LinkedList.csproj", "{805F6CB1-E384-4190-A431-FA2918B69914}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZD- HashSet SortedSet", "ZD- HashSet\ZD- HashSet SortedSet.csproj", "{B71D705E-428F-48A5-BD44-D7DD40F2B7A4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZE- Stream IO", "ZE- Stream IO\ZE- Stream IO.csproj", "{515F3245-F2E0-48EC-ADF3-7053A572976F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZF- Nuget Packages and Packaging", "ZF- Nuget Packages and Packaging\ZF- Nuget Packages and Packaging.csproj", "{58D908DD-8971-456C-BFB6-5D58B2F657B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +191,22 @@ Global
 		{1D308F9A-B36A-4D8A-A98A-AD35DF8C21B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D308F9A-B36A-4D8A-A98A-AD35DF8C21B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D308F9A-B36A-4D8A-A98A-AD35DF8C21B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{805F6CB1-E384-4190-A431-FA2918B69914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{805F6CB1-E384-4190-A431-FA2918B69914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{805F6CB1-E384-4190-A431-FA2918B69914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{805F6CB1-E384-4190-A431-FA2918B69914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B71D705E-428F-48A5-BD44-D7DD40F2B7A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B71D705E-428F-48A5-BD44-D7DD40F2B7A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B71D705E-428F-48A5-BD44-D7DD40F2B7A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B71D705E-428F-48A5-BD44-D7DD40F2B7A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{515F3245-F2E0-48EC-ADF3-7053A572976F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{515F3245-F2E0-48EC-ADF3-7053A572976F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{515F3245-F2E0-48EC-ADF3-7053A572976F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{515F3245-F2E0-48EC-ADF3-7053A572976F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58D908DD-8971-456C-BFB6-5D58B2F657B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58D908DD-8971-456C-BFB6-5D58B2F657B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58D908DD-8971-456C-BFB6-5D58B2F657B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58D908DD-8971-456C-BFB6-5D58B2F657B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

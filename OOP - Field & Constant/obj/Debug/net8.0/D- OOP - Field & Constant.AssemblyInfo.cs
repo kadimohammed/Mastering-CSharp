@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("D- OOP - Field & Constant")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0d2f1b49fefb149bfdad8e8496c8cb8e9d7762c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3234ae4e1c702e0aa5cf86f31278340fd446c5ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("D- OOP - Field & Constant")]
 [assembly: System.Reflection.AssemblyTitleAttribute("D- OOP - Field & Constant")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZC- LinkedList HashSet SortedSet\bin\Debug\net8.0\ZC- LinkedList HashSet SortedSet.exe
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZC- LinkedList HashSet SortedSet\bin\Debug\net8.0\ZC- LinkedList HashSet SortedSet.deps.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZC- LinkedList HashSet SortedSet\bin\Debug\net8.0\ZC- LinkedList HashSet SortedSet.runtimeconfig.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZC- LinkedList HashSet SortedSet\bin\Debug\net8.0\ZC- LinkedList HashSet SortedSet.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZC- LinkedList HashSet SortedSet\bin\Debug\net8.0\ZC- LinkedList HashSet SortedSet.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZC- LinkedList HashSet SortedSet\obj\Debug\net8.0\ZC- LinkedList HashSet SortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZC- LinkedList HashSet SortedSet\obj\Debug\net8.0\ZC- LinkedList HashSet SortedSet.AssemblyInfoInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZC- LinkedList HashSet SortedSet\obj\Debug\net8.0\ZC- LinkedList HashSet SortedSet.AssemblyInfo.cs
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZC- LinkedList HashSet SortedSet\obj\Debug\net8.0\ZC- LinkedList HashSet SortedSet.csproj.CoreCompileInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZC- LinkedList HashSet SortedSet\obj\Debug\net8.0\ZC- LinkedList HashSet SortedSet.sourcelink.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZC- LinkedList HashSet SortedSet\obj\Debug\net8.0\ZC- LinkedList HashSet SortedSet.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZC- LinkedList HashSet SortedSet\obj\Debug\net8.0\refint\ZC- LinkedList HashSet SortedSet.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZC- LinkedList HashSet SortedSet\obj\Debug\net8.0\ZC- LinkedList HashSet SortedSet.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZC- LinkedList HashSet SortedSet\obj\Debug\net8.0\ZC- LinkedList HashSet SortedSet.genruntimeconfig.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZC- LinkedList HashSet SortedSet\obj\Debug\net8.0\ref\ZC- LinkedList HashSet SortedSet.dll

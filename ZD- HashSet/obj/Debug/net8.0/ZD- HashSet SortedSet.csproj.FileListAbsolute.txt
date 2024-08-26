@@ -1,0 +1,15 @@
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZD- HashSet\bin\Debug\net8.0\ZD- HashSet SortedSet.exe
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZD- HashSet\bin\Debug\net8.0\ZD- HashSet SortedSet.deps.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZD- HashSet\bin\Debug\net8.0\ZD- HashSet SortedSet.runtimeconfig.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZD- HashSet\bin\Debug\net8.0\ZD- HashSet SortedSet.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZD- HashSet\bin\Debug\net8.0\ZD- HashSet SortedSet.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZD- HashSet\obj\Debug\net8.0\ZD- HashSet SortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZD- HashSet\obj\Debug\net8.0\ZD- HashSet SortedSet.AssemblyInfoInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZD- HashSet\obj\Debug\net8.0\ZD- HashSet SortedSet.AssemblyInfo.cs
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZD- HashSet\obj\Debug\net8.0\ZD- HashSet SortedSet.csproj.CoreCompileInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZD- HashSet\obj\Debug\net8.0\ZD- HashSet SortedSet.sourcelink.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZD- HashSet\obj\Debug\net8.0\ZD- HashSet SortedSet.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZD- HashSet\obj\Debug\net8.0\refint\ZD- HashSet SortedSet.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZD- HashSet\obj\Debug\net8.0\ZD- HashSet SortedSet.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZD- HashSet\obj\Debug\net8.0\ZD- HashSet SortedSet.genruntimeconfig.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZD- HashSet\obj\Debug\net8.0\ref\ZD- HashSet SortedSet.dll

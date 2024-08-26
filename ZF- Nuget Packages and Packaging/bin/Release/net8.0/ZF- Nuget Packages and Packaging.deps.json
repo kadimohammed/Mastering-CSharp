@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ZF- Nuget Packages and Packaging/1.0.0": {
+        "runtime": {
+          "ZF- Nuget Packages and Packaging.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZF- Nuget Packages and Packaging/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

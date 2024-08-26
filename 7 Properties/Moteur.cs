@@ -32,6 +32,12 @@ namespace _7_Properties
             }
         }
 
+        public string Type1
+        {
+            get =>   this._type;
+            set => this.Type = value;
+        }
+
         //property IsMercedese
         public bool IsMercedese
         {
