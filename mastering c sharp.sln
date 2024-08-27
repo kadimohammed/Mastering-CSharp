@@ -67,7 +67,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZD- HashSet SortedSet", "ZD
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZE- Stream IO", "ZE- Stream IO\ZE- Stream IO.csproj", "{515F3245-F2E0-48EC-ADF3-7053A572976F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZF- Nuget Packages and Packaging", "ZF- Nuget Packages and Packaging\ZF- Nuget Packages and Packaging.csproj", "{58D908DD-8971-456C-BFB6-5D58B2F657B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZF- Nuget Packages and Packaging", "ZF- Nuget Packages and Packaging\ZF- Nuget Packages and Packaging.csproj", "{58D908DD-8971-456C-BFB6-5D58B2F657B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZJ- Foreach  Yield Deep Dive", "J- Foreach  Yield Deep Dive\ZJ- Foreach  Yield Deep Dive.csproj", "{E203CA0F-1690-469C-8587-D94EA6AFEA52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -207,6 +209,10 @@ Global
 		{58D908DD-8971-456C-BFB6-5D58B2F657B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58D908DD-8971-456C-BFB6-5D58B2F657B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58D908DD-8971-456C-BFB6-5D58B2F657B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E203CA0F-1690-469C-8587-D94EA6AFEA52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E203CA0F-1690-469C-8587-D94EA6AFEA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E203CA0F-1690-469C-8587-D94EA6AFEA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E203CA0F-1690-469C-8587-D94EA6AFEA52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
