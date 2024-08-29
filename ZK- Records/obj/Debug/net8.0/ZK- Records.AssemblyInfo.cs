@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZK- Records")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe695bfb12d7fb7fb883c5d5250cef95b98cc285")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90084f5f20d95b432e3e74ff93d06df33a8e687c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZK- Records")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZK- Records")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

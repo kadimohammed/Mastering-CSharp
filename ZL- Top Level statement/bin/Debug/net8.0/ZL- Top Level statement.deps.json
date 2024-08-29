@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ZL- Top Level statement/1.0.0": {
+        "runtime": {
+          "ZL- Top Level statement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZL- Top Level statement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

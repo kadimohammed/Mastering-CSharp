@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>ZL__Top_Level_statement</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+	
+	<ItemGroup>
+		<Using Remove="Sytem.linq"/> <!-- remove using implicit-->
+		<!--Using Include="Sytem.Text"/--> <!-- include using implicit-->
+	</ItemGroup>
+	
+</Project>

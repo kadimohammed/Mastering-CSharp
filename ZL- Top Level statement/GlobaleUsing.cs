@@ -1,0 +1,1 @@
+﻿global using System.Text;// men la7sen les globale using dirhom fichier bwa7adhom

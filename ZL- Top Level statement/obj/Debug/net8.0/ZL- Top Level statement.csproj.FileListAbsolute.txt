@@ -1,0 +1,15 @@
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZL- Top Level statement\bin\Debug\net8.0\ZL- Top Level statement.exe
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZL- Top Level statement\bin\Debug\net8.0\ZL- Top Level statement.deps.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZL- Top Level statement\bin\Debug\net8.0\ZL- Top Level statement.runtimeconfig.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZL- Top Level statement\bin\Debug\net8.0\ZL- Top Level statement.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZL- Top Level statement\bin\Debug\net8.0\ZL- Top Level statement.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZL- Top Level statement\obj\Debug\net8.0\ZL- Top Level statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZL- Top Level statement\obj\Debug\net8.0\ZL- Top Level statement.AssemblyInfoInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZL- Top Level statement\obj\Debug\net8.0\ZL- Top Level statement.AssemblyInfo.cs
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZL- Top Level statement\obj\Debug\net8.0\ZL- Top Level statement.csproj.CoreCompileInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZL- Top Level statement\obj\Debug\net8.0\ZL- Top Level statement.sourcelink.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZL- Top Level statement\obj\Debug\net8.0\ZL- Top Level statement.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZL- Top Level statement\obj\Debug\net8.0\refint\ZL- Top Level statement.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZL- Top Level statement\obj\Debug\net8.0\ZL- Top Level statement.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZL- Top Level statement\obj\Debug\net8.0\ZL- Top Level statement.genruntimeconfig.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZL- Top Level statement\obj\Debug\net8.0\ref\ZL- Top Level statement.dll

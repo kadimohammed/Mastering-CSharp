@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E9C3F2A5-EDB2-4891-A3AF-5FA6CEB96EF7}|ZK- Records\\ZK- Records.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\zk- records\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9C3F2A5-EDB2-4891-A3AF-5FA6CEB96EF7}|ZK- Records\\ZK- Records.csproj|solutionrelative:zk- records\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03138D6E-D57C-4C49-B546-72E3EB4102E5}|ZL- Top Level statement\\ZL- Top Level statement.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\zl- top level statement\\zl- top level statement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{03138D6E-D57C-4C49-B546-72E3EB4102E5}|ZL- Top Level statement\\ZL- Top Level statement.csproj|solutionrelative:zl- top level statement\\zl- top level statement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03138D6E-D57C-4C49-B546-72E3EB4102E5}|ZL- Top Level statement\\ZL- Top Level statement.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\zl- top level statement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03138D6E-D57C-4C49-B546-72E3EB4102E5}|ZL- Top Level statement\\ZL- Top Level statement.csproj|solutionrelative:zl- top level statement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ZL- Top Level statement",
+              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZL- Top Level statement\\ZL- Top Level statement.csproj",
+              "RelativeDocumentMoniker": "ZL- Top Level statement\\ZL- Top Level statement.csproj",
+              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZL- Top Level statement\\ZL- Top Level statement.csproj",
+              "RelativeToolTip": "ZL- Top Level statement\\ZL- Top Level statement.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-29T18:59:34.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZK- Records\\Program.cs",
-              "RelativeDocumentMoniker": "ZK- Records\\Program.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZK- Records\\Program.cs",
-              "RelativeToolTip": "ZK- Records\\Program.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAmwFQAAAA3AAAA",
+              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZL- Top Level statement\\Program.cs",
+              "RelativeDocumentMoniker": "ZL- Top Level statement\\Program.cs",
+              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZL- Top Level statement\\Program.cs",
+              "RelativeToolTip": "ZL- Top Level statement\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBsAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T10:38:29.198Z",
+              "WhenOpened": "2024-08-29T18:56:15.221Z",
               "EditorCaption": ""
             }
           ]
