@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("V- XML Documentation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d5e26917aad64f34a7b5eb2231a170cc75e6f71")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe695bfb12d7fb7fb883c5d5250cef95b98cc285")]
 [assembly: System.Reflection.AssemblyProductAttribute("V- XML Documentation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("V- XML Documentation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

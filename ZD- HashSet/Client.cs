@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace ZD__HashSet
 {
-    internal class Client : IComparable<Client>
+    // had linterface mli7a fles structure plus performance 7it kat3tek lojet men naw3 Client bla mat7awlo ou katray7ek men lcast
+    // bnisba les class b7al b7al 7it makt7awelch l value type katkhdem ghi breferences types
+    internal class Client : IComparable<Client> , IEquatable<Client> 
     {
         public string Name { get; set; }
         public string Telephone { get; set; }
@@ -16,6 +18,7 @@ namespace ZD__HashSet
             Name = name;
             Telephone = telephone;
         }
+
 
         public override bool Equals(object? obj)
         {
@@ -42,6 +45,11 @@ namespace ZD__HashSet
                 return -1;
 
             return this.Telephone.CompareTo(other.Telephone);
+        }
+
+        public bool Equals(Client? other)
+        {
+            return Telephone == other?.Telephone;
         }
     }
 }

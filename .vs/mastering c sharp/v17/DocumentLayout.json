@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33EFAEEB-D8C5-42DF-A72B-0F5253BAB55E}|ZH- Asynchronous Programming\\ZH- Asynchronous Programming.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\zh- asynchronous programming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33EFAEEB-D8C5-42DF-A72B-0F5253BAB55E}|ZH- Asynchronous Programming\\ZH- Asynchronous Programming.csproj|solutionrelative:zh- asynchronous programming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB8962E8-C43E-4F1A-B9D9-C2906726F4C4}|ZG- Threading\\ZG- Threading.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\zg- threading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB8962E8-C43E-4F1A-B9D9-C2906726F4C4}|ZG- Threading\\ZG- Threading.csproj|solutionrelative:zg- threading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB8962E8-C43E-4F1A-B9D9-C2906726F4C4}|ZG- Threading\\ZG- Threading.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\zg- threading\\transfere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB8962E8-C43E-4F1A-B9D9-C2906726F4C4}|ZG- Threading\\ZG- Threading.csproj|solutionrelative:zg- threading\\transfere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9C3F2A5-EDB2-4891-A3AF-5FA6CEB96EF7}|ZK- Records\\ZK- Records.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\zk- records\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C3F2A5-EDB2-4891-A3AF-5FA6CEB96EF7}|ZK- Records\\ZK- Records.csproj|solutionrelative:zk- records\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,39 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZH- Asynchronous Programming\\Program.cs",
-              "RelativeDocumentMoniker": "ZH- Asynchronous Programming\\Program.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZH- Asynchronous Programming\\Program.cs",
-              "RelativeToolTip": "ZH- Asynchronous Programming\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZK- Records\\Program.cs",
+              "RelativeDocumentMoniker": "ZK- Records\\Program.cs",
+              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZK- Records\\Program.cs",
+              "RelativeToolTip": "ZK- Records\\Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAmwFQAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T13:41:15.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Transfere.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZG- Threading\\Transfere.cs",
-              "RelativeDocumentMoniker": "ZG- Threading\\Transfere.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZG- Threading\\Transfere.cs",
-              "RelativeToolTip": "ZG- Threading\\Transfere.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAADEAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T11:55:06.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZG- Threading\\Program.cs",
-              "RelativeDocumentMoniker": "ZG- Threading\\Program.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZG- Threading\\Program.cs",
-              "RelativeToolTip": "ZG- Threading\\Program.cs",
-              "ViewState": "AQIAAHEAAAAAAAAAAAAAAIgAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T09:11:08.963Z",
+              "WhenOpened": "2024-08-29T10:38:29.198Z",
               "EditorCaption": ""
             }
           ]
