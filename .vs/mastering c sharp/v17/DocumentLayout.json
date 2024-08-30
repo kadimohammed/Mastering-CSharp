@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03138D6E-D57C-4C49-B546-72E3EB4102E5}|ZL- Top Level statement\\ZL- Top Level statement.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\zl- top level statement\\zl- top level statement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{03138D6E-D57C-4C49-B546-72E3EB4102E5}|ZL- Top Level statement\\ZL- Top Level statement.csproj|solutionrelative:zl- top level statement\\zl- top level statement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{53E77AAA-E1EA-412C-9B57-C0D9124B7D23}|ZM- Working with NULL\\ZM- Working with NULL.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\zm- working with null\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E77AAA-E1EA-412C-9B57-C0D9124B7D23}|ZM- Working with NULL\\ZM- Working with NULL.csproj|solutionrelative:zm- working with null\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03138D6E-D57C-4C49-B546-72E3EB4102E5}|ZL- Top Level statement\\ZL- Top Level statement.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\zl- top level statement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03138D6E-D57C-4C49-B546-72E3EB4102E5}|ZL- Top Level statement\\ZL- Top Level statement.csproj|solutionrelative:zl- top level statement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53E77AAA-E1EA-412C-9B57-C0D9124B7D23}|ZM- Working with NULL\\ZM- Working with NULL.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\zm- working with null\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E77AAA-E1EA-412C-9B57-C0D9124B7D23}|ZM- Working with NULL\\ZM- Working with NULL.csproj|solutionrelative:zm- working with null\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,27 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ZL- Top Level statement",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZL- Top Level statement\\ZL- Top Level statement.csproj",
-              "RelativeDocumentMoniker": "ZL- Top Level statement\\ZL- Top Level statement.csproj",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZL- Top Level statement\\ZL- Top Level statement.csproj",
-              "RelativeToolTip": "ZL- Top Level statement\\ZL- Top Level statement.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-29T18:59:34.918Z",
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZM- Working with NULL\\Player.cs",
+              "RelativeDocumentMoniker": "ZM- Working with NULL\\Player.cs",
+              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZM- Working with NULL\\Player.cs",
+              "RelativeToolTip": "ZM- Working with NULL\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:18:20.527Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZL- Top Level statement\\Program.cs",
-              "RelativeDocumentMoniker": "ZL- Top Level statement\\Program.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZL- Top Level statement\\Program.cs",
-              "RelativeToolTip": "ZL- Top Level statement\\Program.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAQwBsAAAAzAAAA",
+              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZM- Working with NULL\\Program.cs",
+              "RelativeDocumentMoniker": "ZM- Working with NULL\\Program.cs",
+              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZM- Working with NULL\\Program.cs",
+              "RelativeToolTip": "ZM- Working with NULL\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAswDoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T18:56:15.221Z",
+              "WhenOpened": "2024-08-30T12:29:27.915Z",
               "EditorCaption": ""
             }
           ]

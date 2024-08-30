@@ -1,0 +1,15 @@
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZM- Working with NULL\bin\Debug\net8.0\ZM- Working with NULL.exe
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZM- Working with NULL\bin\Debug\net8.0\ZM- Working with NULL.deps.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZM- Working with NULL\bin\Debug\net8.0\ZM- Working with NULL.runtimeconfig.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZM- Working with NULL\bin\Debug\net8.0\ZM- Working with NULL.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZM- Working with NULL\bin\Debug\net8.0\ZM- Working with NULL.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZM- Working with NULL\obj\Debug\net8.0\ZM- Working with NULL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZM- Working with NULL\obj\Debug\net8.0\ZM- Working with NULL.AssemblyInfoInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZM- Working with NULL\obj\Debug\net8.0\ZM- Working with NULL.AssemblyInfo.cs
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZM- Working with NULL\obj\Debug\net8.0\ZM- Working with NULL.csproj.CoreCompileInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZM- Working with NULL\obj\Debug\net8.0\ZM- Working with NULL.sourcelink.json
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZM- Working with NULL\obj\Debug\net8.0\ZM- Working with NULL.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZM- Working with NULL\obj\Debug\net8.0\refint\ZM- Working with NULL.dll
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZM- Working with NULL\obj\Debug\net8.0\ZM- Working with NULL.pdb
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZM- Working with NULL\obj\Debug\net8.0\ZM- Working with NULL.genruntimeconfig.cache
+C:\Users\MO KADI\Desktop\.net course\Mastering-CSharp\ZM- Working with NULL\obj\Debug\net8.0\ref\ZM- Working with NULL.dll

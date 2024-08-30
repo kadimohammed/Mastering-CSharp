@@ -79,7 +79,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZH2- Asynchronous Programmi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZK- Records", "ZK- Records\ZK- Records.csproj", "{E9C3F2A5-EDB2-4891-A3AF-5FA6CEB96EF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZL- Top Level statement", "ZL- Top Level statement\ZL- Top Level statement.csproj", "{03138D6E-D57C-4C49-B546-72E3EB4102E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZL- Top Level statement", "ZL- Top Level statement\ZL- Top Level statement.csproj", "{03138D6E-D57C-4C49-B546-72E3EB4102E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZM- Working with NULL", "ZM- Working with NULL\ZM- Working with NULL.csproj", "{53E77AAA-E1EA-412C-9B57-C0D9124B7D23}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -243,6 +245,10 @@ Global
 		{03138D6E-D57C-4C49-B546-72E3EB4102E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03138D6E-D57C-4C49-B546-72E3EB4102E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03138D6E-D57C-4C49-B546-72E3EB4102E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53E77AAA-E1EA-412C-9B57-C0D9124B7D23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E77AAA-E1EA-412C-9B57-C0D9124B7D23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E77AAA-E1EA-412C-9B57-C0D9124B7D23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E77AAA-E1EA-412C-9B57-C0D9124B7D23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

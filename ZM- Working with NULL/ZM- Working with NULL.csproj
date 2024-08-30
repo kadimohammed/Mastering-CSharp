@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>ZM__Working_with_NULL</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<!--<WarningsAsErrors>CS8600, CS8604</WarningsAsErrors>-->
+	<!--<TreatWarningsAsErrors>true</TreatWarningsAsErrors>--> <!--hna kat3taber ga3 les warnings sont des errors-->
+  </PropertyGroup>
+
+</Project>
