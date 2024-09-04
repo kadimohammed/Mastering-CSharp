@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ZP-  Tuple Type/1.0.0": {
+        "runtime": {
+          "ZP-  Tuple Type.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZP-  Tuple Type/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

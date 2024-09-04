@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53E77AAA-E1EA-412C-9B57-C0D9124B7D23}|ZM- Working with NULL\\ZM- Working with NULL.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\zm- working with null\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53E77AAA-E1EA-412C-9B57-C0D9124B7D23}|ZM- Working with NULL\\ZM- Working with NULL.csproj|solutionrelative:zm- working with null\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53E77AAA-E1EA-412C-9B57-C0D9124B7D23}|ZM- Working with NULL\\ZM- Working with NULL.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\zm- working with null\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53E77AAA-E1EA-412C-9B57-C0D9124B7D23}|ZM- Working with NULL\\ZM- Working with NULL.csproj|solutionrelative:zm- working with null\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E66B2FB-4906-45B6-BA91-3206ABBE3A94}|ZP-  Tuple Type\\ZP-  Tuple Type.csproj|c:\\users\\mo kadi\\desktop\\.net course\\mastering-csharp\\zp-  tuple type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E66B2FB-4906-45B6-BA91-3206ABBE3A94}|ZP-  Tuple Type\\ZP-  Tuple Type.csproj|solutionrelative:zp-  tuple type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,27 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZM- Working with NULL\\Player.cs",
-              "RelativeDocumentMoniker": "ZM- Working with NULL\\Player.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZM- Working with NULL\\Player.cs",
-              "RelativeToolTip": "ZM- Working with NULL\\Player.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T13:18:20.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZM- Working with NULL\\Program.cs",
-              "RelativeDocumentMoniker": "ZM- Working with NULL\\Program.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZM- Working with NULL\\Program.cs",
-              "RelativeToolTip": "ZM- Working with NULL\\Program.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAswDoAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZP-  Tuple Type\\Program.cs",
+              "RelativeDocumentMoniker": "ZP-  Tuple Type\\Program.cs",
+              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZP-  Tuple Type\\Program.cs",
+              "RelativeToolTip": "ZP-  Tuple Type\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T12:29:27.915Z",
+              "WhenOpened": "2024-09-04T13:29:11.742Z",
               "EditorCaption": ""
             }
           ]
