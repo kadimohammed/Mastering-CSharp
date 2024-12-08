@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZC- LinkedList HashSet SortedSet\\ZC- LinkedList.csproj": {}
+    "C:\\Users\\MO KADI\\Desktop\\Mastering-CSharp\\ZC- LinkedList HashSet SortedSet\\ZC- LinkedList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZC- LinkedList HashSet SortedSet\\ZC- LinkedList.csproj": {
+    "C:\\Users\\MO KADI\\Desktop\\Mastering-CSharp\\ZC- LinkedList HashSet SortedSet\\ZC- LinkedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZC- LinkedList HashSet SortedSet\\ZC- LinkedList.csproj",
+        "projectUniqueName": "C:\\Users\\MO KADI\\Desktop\\Mastering-CSharp\\ZC- LinkedList HashSet SortedSet\\ZC- LinkedList.csproj",
         "projectName": "ZC- LinkedList",
-        "projectPath": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZC- LinkedList HashSet SortedSet\\ZC- LinkedList.csproj",
+        "projectPath": "C:\\Users\\MO KADI\\Desktop\\Mastering-CSharp\\ZC- LinkedList HashSet SortedSet\\ZC- LinkedList.csproj",
         "packagesPath": "C:\\Users\\MO KADI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MO KADI\\Desktop\\.net course\\Mastering-CSharp\\ZC- LinkedList HashSet SortedSet\\obj\\",
+        "outputPath": "C:\\Users\\MO KADI\\Desktop\\Mastering-CSharp\\ZC- LinkedList HashSet SortedSet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

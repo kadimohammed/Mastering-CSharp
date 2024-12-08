@@ -1,0 +1,15 @@
+C:\Users\MO KADI\Desktop\Mastering-CSharp\ZO- String Builder\bin\Debug\net8.0\ZO- String Builder.exe
+C:\Users\MO KADI\Desktop\Mastering-CSharp\ZO- String Builder\bin\Debug\net8.0\ZO- String Builder.deps.json
+C:\Users\MO KADI\Desktop\Mastering-CSharp\ZO- String Builder\bin\Debug\net8.0\ZO- String Builder.runtimeconfig.json
+C:\Users\MO KADI\Desktop\Mastering-CSharp\ZO- String Builder\bin\Debug\net8.0\ZO- String Builder.dll
+C:\Users\MO KADI\Desktop\Mastering-CSharp\ZO- String Builder\bin\Debug\net8.0\ZO- String Builder.pdb
+C:\Users\MO KADI\Desktop\Mastering-CSharp\ZO- String Builder\obj\Debug\net8.0\ZO- String Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MO KADI\Desktop\Mastering-CSharp\ZO- String Builder\obj\Debug\net8.0\ZO- String Builder.AssemblyInfoInputs.cache
+C:\Users\MO KADI\Desktop\Mastering-CSharp\ZO- String Builder\obj\Debug\net8.0\ZO- String Builder.AssemblyInfo.cs
+C:\Users\MO KADI\Desktop\Mastering-CSharp\ZO- String Builder\obj\Debug\net8.0\ZO- String Builder.csproj.CoreCompileInputs.cache
+C:\Users\MO KADI\Desktop\Mastering-CSharp\ZO- String Builder\obj\Debug\net8.0\ZO- String Builder.sourcelink.json
+C:\Users\MO KADI\Desktop\Mastering-CSharp\ZO- String Builder\obj\Debug\net8.0\ZO- String Builder.dll
+C:\Users\MO KADI\Desktop\Mastering-CSharp\ZO- String Builder\obj\Debug\net8.0\refint\ZO- String Builder.dll
+C:\Users\MO KADI\Desktop\Mastering-CSharp\ZO- String Builder\obj\Debug\net8.0\ZO- String Builder.pdb
+C:\Users\MO KADI\Desktop\Mastering-CSharp\ZO- String Builder\obj\Debug\net8.0\ZO- String Builder.genruntimeconfig.cache
+C:\Users\MO KADI\Desktop\Mastering-CSharp\ZO- String Builder\obj\Debug\net8.0\ref\ZO- String Builder.dll

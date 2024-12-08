@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ZO- String Builder/1.0.0": {
+        "runtime": {
+          "ZO- String Builder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZO- String Builder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
